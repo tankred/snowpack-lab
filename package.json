@@ -1,0 +1,29 @@
+{
+  "name": "snowpack-lab",
+  "version": "0.1.0",
+  "description": "snowpack lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tankred/snowpack-lab.git"
+  },
+  "keywords": [
+    "snowpack",
+    "bundler",
+    "lab"
+  ],
+  "author": "Tankred",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tankred/snowpack-lab/issues"
+  },
+  "homepage": "https://github.com/tankred/snowpack-lab#readme",
+  "devDependencies": {
+    "snowpack": "^2.18.2"
+  }
+}
