@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] - 2020-12-14
 ### Added
 - Favicon 891
+### Changed
+- Move index file to src dir
 
 ## [0.1.0] - 2020-12-11
 ### Added
