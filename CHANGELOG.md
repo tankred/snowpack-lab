@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.5] - 2021-03-26
+### Changed
+- Build and minify main CSS ?
+- Upgrade snowpack
+
+## [0.2.4] - 2021-03-26
+### Changed
+- Build main CSS
+
 ## [0.2.3] - 2021-03-25
 ### Changed
 - Add main CSS

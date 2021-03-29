@@ -1,10 +1,10 @@
 // Snowpack Configuration File 
+// Using Snowpack's built-in bundling support
 module.exports = {
-  buildOptions: {
-    /* ? ... */
-    // buildOptions.clean | boolean | Default: false#
-    // Set to true if Snowpack should erase the build folder before each build.
-    "clean": true
+  optimize: {
+    bundle: true,
+    minify: true,
+    target: 'es2018',
   },
   mount: {
     "src": "/"

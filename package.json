@@ -1,6 +1,6 @@
 {
   "name": "snowpack-lab",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "description": "snowpack lab",
   "main": "src/index.html",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/tankred/snowpack-lab#readme",
   "devDependencies": {
-    "snowpack": "^2.18.2"
+    "snowpack": "^3.1.2"
   }
 }
