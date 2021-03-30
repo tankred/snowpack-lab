@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.6] - 2021-03-30
 ### Added
 - Sample js file
+- StandardJS
 
 ## [0.2.5] - 2021-03-26
 ### Changed

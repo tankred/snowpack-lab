@@ -1,3 +1,4 @@
-let f = 'v 0.2.6'
+let f = 'v '
+f += '0.2.6'
 document.write(f)
 // info to exclude from build
