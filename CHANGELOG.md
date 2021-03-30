@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.6] - 2021-03-30
+### Added
+- Sample js file
+
 ## [0.2.5] - 2021-03-26
 ### Changed
 - Build and minify main CSS ?
