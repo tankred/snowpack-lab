@@ -8,5 +8,6 @@ module.exports = {
   },
   mount: {
     src: '/'
-  }
+  },
+  exclude: ['**/*~']
 }

@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.7] - 2021-03-31
+### Changed
+- Exclude gvim bak files
+
 ## [0.2.6] - 2021-03-30
 ### Added
 - Sample js file

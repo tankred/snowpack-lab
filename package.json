@@ -1,6 +1,6 @@
 {
   "name": "snowpack-lab",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "snowpack lab",
   "main": "src/index.html",
   "scripts": {
