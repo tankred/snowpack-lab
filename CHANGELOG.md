@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.3.0] - 2021-04-01
+### Changed
+- Bump version to 0.3.0
+
 ## [0.2.7] - 2021-03-31
 ### Changed
 - Exclude gvim bak files
@@ -35,8 +41,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.1] - 2020-12-15
 ### Added
 - Snowpack config
-
-## [Released]
 
 ## [0.2.0] - 2020-12-14
 ### Added
