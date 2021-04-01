@@ -1,5 +1,5 @@
 // Snowpack Configuration File
-// Using Snowpack's built-in bundling support
+//? Using Snowpack's built-in bundling support
 module.exports = {
   optimize: {
     bundle: true,
