@@ -1,10 +1,10 @@
 {
   "name": "snowpack-lab",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "snowpack lab",
   "main": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "standard",
     "start": "snowpack dev",
     "build": "snowpack build"
   },
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/tankred/snowpack-lab#readme",
   "devDependencies": {
-    "snowpack": "^2.18.2"
+    "snowpack": "^3.1.2",
+    "standard": "^16.0.3"
   }
 }
