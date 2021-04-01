@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/tankred/snowpack-lab#readme",
   "devDependencies": {
-    "snowpack": "^3.1.2",
+    "@snowpack/plugin-optimize": "^0.2.13",
+    "snowpack": "^3.2.2",
     "standard": "^16.0.3"
   }
 }

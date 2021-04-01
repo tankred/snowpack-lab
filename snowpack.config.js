@@ -10,4 +10,9 @@ module.exports = {
     src: '/'
   },
   exclude: ['**/*~'],
+  plugins: [
+    ["@snowpack/plugin-optimize", { 
+      minifyHTML: true
+    }]
+  ]
 }
