@@ -1,5 +1,5 @@
 // Snowpack Configuration File
-//? Using Snowpack's built-in bundling support
+// ? Using Snowpack's built-in bundling support
 module.exports = {
   optimize: {
     bundle: true,
@@ -10,11 +10,11 @@ module.exports = {
     src: '/'
   },
   exclude: ['**/*~'],
-//   plugins: [
-//     ["@snowpack/plugin-optimize", { 
-//       minifyHTML: true
-//     }]
-//   ]
+  //   plugins: [
+  //     ["@snowpack/plugin-optimize", {
+  //       minifyHTML: true
+  //     }]
+  //   ]
   plugins: [
     [
       'snowpack-plugin-minify-html',
@@ -24,9 +24,9 @@ module.exports = {
          */
         htmlMinifierOptions: {
           sortAttributes: true,
-          removeComments: true,
-        },
-      },
+          removeComments: true
+        }
+      }
     ],
     [
       'snowpack-plugin-terser',
@@ -38,10 +38,10 @@ module.exports = {
           compress: {
             arguments: true,
             passes: 2,
-            unsafe_arrows: true,
-          },
-        },
-      },
-    ],
-  ],
+            unsafe_arrows: true
+          }
+        }
+      }
+    ]
+  ]
 }
