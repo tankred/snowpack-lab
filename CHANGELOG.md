@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.4.0] - 2023-12-06
+### Changed
+- Merge dev branch
+
 ## [0.3.2] - 2021-04-15
 ### Changed
 - Standard --fix
@@ -13,8 +19,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.3.1] - 2021-04-02
 ### Changed
 - Minify Js and html
-
-## [Released]
 
 ## [0.3.0] - 2021-04-01
 ### Changed
