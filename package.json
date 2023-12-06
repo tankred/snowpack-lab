@@ -1,12 +1,12 @@
 {
   "name": "snowpack-lab",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "snowpack lab",
   "main": "src/index.html",
   "scripts": {
     "test": "standard",
     "start": "snowpack dev",
-    "build": "snowpack build"
+    "build": "snowpack build --clean --verbose"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,11 @@
   },
   "homepage": "https://github.com/tankred/snowpack-lab#readme",
   "devDependencies": {
-    "snowpack": "^3.1.2",
-    "standard": "^16.0.3"
+    "@snowpack/plugin-optimize": "^0.2.13",
+    "snowpack": "^3.2.2",
+    "snowpack-plugin-minify-html": "^0.1.1",
+    "snowpack-plugin-terser": "^0.1.0",
+    "standard": "^16.0.3",
+    "terser": "^5.6.1"
   }
 }
