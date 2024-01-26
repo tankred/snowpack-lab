@@ -1,31 +1,18 @@
-# Project Title
+# Snowpack lab
 
-One Paragraph of project description goes here
+Exploring [snowpack JS](https://www.snowpack.dev)
 
-## Getting Started
+This repo is an archive. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Info
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+SNOWPACK can run webpack as a plugin
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tankred/snowpack-lab/tags).
 
 ## Authors
 
 Tankred
 
-## License
-
-Add link to license file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
